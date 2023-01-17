@@ -1,0 +1,16 @@
+[
+    {
+        "id": 1,
+        "imageUrl": "https://s35691.pcdn.co/wp-content/uploads/2020/01/putting-students-in-the-drivers-seat.jpg",
+        "title": "All Star Drive Test ($40)",
+        "contentOne": "All Star offers the Indiana Behind-the-Wheel Drive Test to any student who has completed and passed the Traditional Classroom or Online Classroom and Drives at our school location as an option to completing it at the BMV.",
+        "contentTwo": "Drive tests can be scheduled by calling (812) 339-9908 during office hours. You must bring Traditional or Online Classroom Completion Form, Permit, and $40 Cash or Check made payable to the Certified Instructor. No further testing will be needed to obtain drivers license."
+    },
+    {
+        "id": 2,
+        "imageUrl": "https://s35691.pcdn.co/wp-content/uploads/2020/01/putting-students-in-the-drivers-seat.jpg",
+        "title": " All Star Private Drive ($80)",
+        "contentOne": "This is a (1) hour private drive lesson for any individual that holds a valid Indiana drivers permit or drivers license foreign and domestic wishing to learn, improve skills, and prepare for potential Drive Test. This private drive can only be scheduled by calling (812) 339-9908 during office hours and is convenient for adults that have transportation concerns.",
+        "contentTwo": "Cash or Check payment is due at the end of each drive made payable to the Certified Instructor. Pick up and drop off is available but limited to Bloomington and Indiana University campus areas. Drive test, if needed must be completed at the BMV."
+    }
+]

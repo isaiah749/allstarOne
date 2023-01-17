@@ -1,0 +1,26 @@
+[
+    {
+        "id": 2,
+        "imageUrl": "https://s35691.pcdn.co/wp-content/uploads/2020/01/putting-students-in-the-drivers-seat.jpg",
+        "title": "All Star Online Package ($575)",
+        "listItemOne": "This package is for students (15) years of age who are getting their permit and license for the first time.",
+        "listItemTwo": "State required (30) hours of Classroom and (6) hours Behind-The-Wheel training completed traditionally at our school location.",
+        "listItemThree": "Register and create Student Account online or in-person with full PAYMENT required to start classroom online.",
+        "stateInfoStart": "You can access and print the Certificate of Drivers Education (CDE) enrollment form from this Website by logging into the Student Account online or in person by visiting us at All Star Driving School.",
+        "stateInfoMiddleBold": "Take CDE FORM, BIRTH CERTIFICATE, SOCIAL SECURITY CARD, and 2 PIECES OF STUDENT ID RESIDENCY to the BMV within 21 days prior to class start date to the BMV.",
+        "stateInfoEnd": "Pass the BMV written exam to obtain permit and begin driving. Drive times are scheduled in-class on the 1st day of class.",
+        "signupUrl": "https://allstar-driveschool.onlinedrivers.education/users/new/student"
+    },
+    {
+        "id": 3,
+        "imageUrl": "https://s35691.pcdn.co/wp-content/uploads/2020/01/putting-students-in-the-drivers-seat.jpg",
+        "title": "All Star B-T-W Training Drives ($480)",
+        "listItemOne": "This package is for students (15) years of age or older who have signed up for the state required (30) hours Classroom with a State approved 3rd party online classroom service.",
+        "listItemTwo": "It provides (6) hours Behind-The-Wheel Training ONLY with a Certified Instructor at our school location.",
+        "listItemThree": "Register and create Student Account online or in-person with full PAYMENT required to start drive lessons.",
+        "stateInfoStart": "You can access and print the Certificate of Drivers Education (CDE) enrollment form from this Website by logging into the Student Account online or in person by visiting us at All Star Driving School.",
+        "stateInfoMiddleBold": "Take CDE FORM, BIRTH CERTIFICATE, SOCIAL SECURITY CARD, and 2 PIECES OF STUDENT ID RESIDENCY to the BMV within 21 days prior to class start date to the BMV.",
+        "stateInfoEnd": "Pass the BMV written exam to obtain permit and begin driving. Drive times can be scheduled immediately by calling (812) 339-9908 during office hours. ",
+        "signupUrl": "https://allstar-driveschool.onlinedrivers.education/users/new/student"
+    }
+]
